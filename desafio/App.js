@@ -13,7 +13,6 @@ export default function App() {
     console.log(nomeCadastro);
   }
 
-
   return (
     <View>
       <Text>Open up App.js to start working on your app!</Text>
